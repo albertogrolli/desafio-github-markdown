@@ -53,3 +53,18 @@ git checkout -b minha-branch
 git add .
 git commit -m "Minha contribuição"
 git push origin minha-branch
+
+#### ➡️ Tabela de Comandos Úteis:
+| Comando           | Descrição                            |
+|-------------------|------------------------------------|
+| `git status`      | Mostra o estado atual do repositório |
+| `git add`         | Adiciona arquivos à staging area     |
+| `git commit -m ""`| Salva as alterações com uma mensagem |
+| `git push`        | Envia alterações para o repositório remoto |
+
+#### ➡️ Link Útil:  
+[Documentação Oficial do Git](https://git-scm.com/doc)
+
+<div align="center"><h2> Ao Infinito e Além: 🚀</h2></div>
+
+<div align="center"><img src="https://i.pinimg.com/originals/6b/7e/d3/6b7ed39c3751c92df2d3ece16a329925.gif") /></div>
