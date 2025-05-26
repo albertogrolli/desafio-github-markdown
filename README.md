@@ -53,6 +53,7 @@ git checkout -b minha-branch
 git add .
 git commit -m "Minha contribuição"
 git push origin minha-branch
+```
 
 #### ➡️ Tabela de Comandos Úteis:
 | Comando           | Descrição                            |
